@@ -1,7 +1,7 @@
 function ProfilePicture() {
   return (
     <img
-      src="/profile.jpg"
+      src="/profile-new.jpg"
       alt="Ian Mark J. Buenaflor"
       className="profile-pic"
     />
